@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead49fc4-dcae-4061-8112-a76b7b0237fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapt3/3_4_4_dls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt3/3_4_6_bs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt3/3_5_1_gbfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt3/3_5_2_Astar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt3/cs188_search/SearchProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt3/cs188_search/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt3/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt4/4_1_1_climbing_eight_queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt4/4_1_1_climbing_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt4/4_1_2_simulated_annealing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt4/4_1_3_local_beam_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt4/4_1_4_genetic_algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt4/4_3_2_and_or_graph_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt4/climbing_method_eight_queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt5/5_2_1_minimax_decision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapt5/5_3_alpha_beta_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapt3/bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapt3/3_4_1_bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapt3/ids.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapt3/3_4_5_ids.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapt3/simple_dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapt3/3_4_3_simple_dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapt3/ucs.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapt3/3_4_2_ucs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapt4/4_1_1_climbing_eight_queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapt4/4_1_1_climbing_eight_queens.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapt4/4_1_1_climbing_eight_queens.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            <state relative-caret-position="1387">
+              <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -356,7 +336,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.09298999" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10443491" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -505,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapt4/4_1_1_climbing_eight_queens.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        <state relative-caret-position="1387">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
         </state>
       </provider>
     </entry>

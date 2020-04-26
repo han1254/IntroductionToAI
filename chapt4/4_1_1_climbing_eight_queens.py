@@ -4,6 +4,8 @@
 
 import random
 
+'''启发值h'''
+
 
 def get_number_of_conflict(status):
     num = 0
@@ -16,6 +18,9 @@ def get_number_of_conflict(status):
             if abs(status[i] - status[j]) == (j - i):
                 num += 1
     return num
+
+
+'''根据启发值爬山'''
 
 
 def climbing_hill(status):
@@ -59,11 +64,26 @@ def eight_queens():
     while get_number_of_conflict(status) > 0:
         status = climbing_hill(status)
         print(status)
-        print("conflict number: "+ str(get_number_of_conflict(status)))
+        print("conflict number: " + str(get_number_of_conflict(status)))
     print("answer:")
     print(status)
 
 
-
 if __name__ == '__main__':
     eight_queens()
+    
+# [5, 0, 2, 3, 4, 2, 6, 7]
+# conflict number: 11
+# [5, 0, 1, 3, 4, 2, 6, 7]
+# conflict number: 7
+# [5, 0, 1, 1, 4, 2, 6, 7]
+# conflict number: 5
+# [5, 0, 1, 1, 4, 2, 6, 3]
+# conflict number: 3
+# [5, 0, 4, 1, 4, 2, 6, 3]
+# conflict number: 2
+# [5, 0, 4, 1, 7, 2, 6, 3]
+# conflict number: 0
+# answer:
+# [5, 0, 4, 1, 7, 2, 6, 3]
+#
